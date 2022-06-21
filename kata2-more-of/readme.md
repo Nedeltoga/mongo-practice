@@ -7,6 +7,9 @@ Lanzar las siguientes queries:
 
 
 - Obtener todos los autores
+
+db.library
+
 - Obtener los autores cuyo apellido sea DATE
 - Obtener los libros editados en 1998 o en 2005
 - Obtener el número de libros de la editorial Addison‐Wesley
